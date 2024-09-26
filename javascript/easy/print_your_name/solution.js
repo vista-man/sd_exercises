@@ -5,10 +5,10 @@
 // MOGELIJKE OPLOSSINGEN
 
 // string literal
-console.log("Hallo, mijn naam is Jesse.");
+console.log("Hallo, mijn naam is Dev.");
 
 // variable
-let myName = "Jesse";
+let myName = "Dev";
 console.log("Hallo, mijn naam is " + myName + ".");
 
 // template string
