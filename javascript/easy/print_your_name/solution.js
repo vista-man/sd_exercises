@@ -8,8 +8,8 @@
 console.log("Hallo, mijn naam is Jesse.");
 
 // variable
-// let myName = "Jesse";
-// console.log("Hallo, mijn naam is " + myName + ".");
+let myName = "Jesse";
+console.log("Hallo, mijn naam is " + myName + ".");
 
 // template string
-// console.log(`Hallo, mijn naam is ${myName}.`);
+console.log(`Hallo, mijn naam is ${myName}.`);

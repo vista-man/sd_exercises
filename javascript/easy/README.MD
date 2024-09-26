@@ -1,5 +1,4 @@
 # JavaScript Exercises
-## VISTA ICT Heerlen
 
 ## Benodigdheden
 
