@@ -7,5 +7,5 @@ Ga naar https://nodejs.org en installeer Node. Gebruik hiervoor de "default" ins
 
 ## Uitvoeren van JavaScript code
 
-Wanneer je JavaScript in een bestand hebt geschreven en je wil deze code uitvoeren, ga dan via je CMD (commandoprompt)
+Wanneer je JavaScript code in een bestand hebt geschreven en je wil deze uitvoeren, ga dan via je CMD (commandoprompt)
 naar de bestandslocatie, en draai vervolgens het commando ```node <naam_van_bestand>.js```
