@@ -4,12 +4,12 @@
 
 // MOGELIJKE OPLOSSINGEN
 
-// string literal
+// String literal
 console.log("Hallo, mijn naam is Dev.");
 
-// variable
+// Variable
 let myName = "Dev";
 console.log("Hallo, mijn naam is " + myName + ".");
 
-// template string
+// Template string
 console.log(`Hallo, mijn naam is ${myName}.`);
