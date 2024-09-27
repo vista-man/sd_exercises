@@ -1,0 +1,15 @@
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.GeneratedMSBuildEditorConfig.editorconfig
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.AssemblyInfoInputs.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.AssemblyInfo.cs
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.csproj.CoreCompileInputs.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.sourcelink.json
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/bin/Debug/net8.0/print_your_name
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/bin/Debug/net8.0/print_your_name.deps.json
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/bin/Debug/net8.0/print_your_name.runtimeconfig.json
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/bin/Debug/net8.0/print_your_name.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/bin/Debug/net8.0/print_your_name.pdb
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/refint/print_your_name.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.pdb
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/print_your_name.genruntimeconfig.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/print_your_name/obj/Debug/net8.0/ref/print_your_name.dll
