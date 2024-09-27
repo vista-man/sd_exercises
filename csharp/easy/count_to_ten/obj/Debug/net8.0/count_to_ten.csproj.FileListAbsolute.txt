@@ -1,0 +1,15 @@
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.GeneratedMSBuildEditorConfig.editorconfig
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.AssemblyInfoInputs.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.AssemblyInfo.cs
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.csproj.CoreCompileInputs.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.sourcelink.json
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/bin/Debug/net8.0/count_to_ten
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/bin/Debug/net8.0/count_to_ten.deps.json
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/bin/Debug/net8.0/count_to_ten.runtimeconfig.json
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/bin/Debug/net8.0/count_to_ten.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/bin/Debug/net8.0/count_to_ten.pdb
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/refint/count_to_ten.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.pdb
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/count_to_ten.genruntimeconfig.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/count_to_ten/obj/Debug/net8.0/ref/count_to_ten.dll
