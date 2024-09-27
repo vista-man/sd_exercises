@@ -1,0 +1,15 @@
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.GeneratedMSBuildEditorConfig.editorconfig
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.AssemblyInfoInputs.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.AssemblyInfo.cs
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.csproj.CoreCompileInputs.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.sourcelink.json
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/bin/Debug/net8.0/data_types
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/bin/Debug/net8.0/data_types.deps.json
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/bin/Debug/net8.0/data_types.runtimeconfig.json
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/bin/Debug/net8.0/data_types.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/bin/Debug/net8.0/data_types.pdb
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/refint/data_types.dll
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.pdb
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/data_types.genruntimeconfig.cache
+/root/VISTA/Code/sd_exercises/csharp/easy/data_types/obj/Debug/net8.0/ref/data_types.dll
