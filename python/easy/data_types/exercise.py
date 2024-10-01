@@ -2,7 +2,7 @@
 OPDRACHT
 Declareer enkele variabelen van verschillende types.
 '''
-import time
+
 
 # Declareer onder deze regel een variabel genaamd myName met het datatype String
 myName = "Alvin"
